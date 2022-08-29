@@ -6,7 +6,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import styles from './Search.module.scss';
 import { useDebounce } from '~/Hook';
 import { useEffect, useState, useRef } from 'react';
-import * as searchServices from '~/apiServices/searchServices';
+import * as searchServices from '~/services/searchService';
 import {
     faCircleXmark,
     faSpinner,
