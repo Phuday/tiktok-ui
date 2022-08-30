@@ -12,6 +12,7 @@ import {
     faCoins,
     faGear,
     faSignOut,
+    faLeaf,
 } from '@fortawesome/free-solid-svg-icons';
 import config from '~/config/config';
 import Button from '~/components/Button';
