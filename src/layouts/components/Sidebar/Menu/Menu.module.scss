@@ -20,7 +20,11 @@
         background-color: rgba(22, 24, 35, 0.02);
     }
 }
-.icon, .active-icon {
+nav {
+    margin: 8px 0;
+}
+.icon,
+.active-icon {
     display: flex;
 }
 .title {
